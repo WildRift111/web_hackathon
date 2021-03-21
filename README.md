@@ -3,6 +3,6 @@
 Team:
 Ekantha Aishwarya S
 Chandana M
-Sanjana
-Shyam
-Ananya
+Sanjana S R
+Sham H
+Ananya Anil
